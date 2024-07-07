@@ -4,6 +4,8 @@ Théo Lemaire - Aymane Ichou -> L3-X Informatique
 
 Execution du projet:
 
+Dé-zipper les fichiers scrapped.zip et dataset.zip, et garder les mêmes noms de fichiers
+
 --> Dans le sous-répertoire "car_price_predictor"
     - Si vous souhaitez re-scrapper l'entièreté des données:
             --> clear && scrapy crawl quotes
@@ -19,3 +21,4 @@ Execution du projet:
 
 - Pour modifier les caractéristiques du véhicule:
         --> Fichier de configuration "car_config.json"
+
