@@ -1,0 +1,12 @@
+{
+    "annee": 2023,
+    "kilometrage": 19000,
+    "places": 5,
+    "portes": 5,
+    "marque": "peugeot",
+    "modele": "408",
+    "couleur": "rouge",
+    "boite_de_vitesse": "automatique",
+    "puissance_fiscale": 7,
+    "carburant": "essence"
+}
